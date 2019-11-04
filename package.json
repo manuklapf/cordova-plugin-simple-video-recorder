@@ -1,0 +1,28 @@
+{
+  "name": "SimpleVideoRecorder",
+  "version": "0.0.1",
+  "description": "A simple video recorder without retake and review options.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuklapf/cordova-plugin-simple-video-recorder"
+  },
+  "cordova": {
+    "id": "cordova-plugin-simple-video-recorder",
+    "platforms": [
+      "iOS"
+    ]
+  },
+  "keywords": [
+    "SimpleVideoRecorder",
+    "ionic-SimpleVideoRecorder",
+    "cordova SimpleVideoRecorder",
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "ios",
+    "ionic"
+  ],
+  "author": "manuklapf",
+  "license": "MIT"
+}
